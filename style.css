@@ -506,7 +506,9 @@ figcaption {
     text-decoration: underline;
     color: #0d1985;
 }
-#main-works-4,#main-works-3,#main-works-5:hover a{
+#main-works-4 a:hover,
+#main-works-3 a:hover,
+#main-works-5 a:hover{
     color: #9FC24D;
 }
 
