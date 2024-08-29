@@ -512,10 +512,6 @@ figcaption {
     color: #9FC24D;
 }
 
-.works-web-h4-deco{
-        text-decoration: underline;
-    color: #28b1f5;
-}
 /* laptop styling */
 @media screen and (min-width:64em) {
 
